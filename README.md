@@ -1,9 +1,6 @@
 <p align="center">
 <a href="#"><img title="succeed" src="https://img.shields.io/badge/deobfuscating-succeed-green?colorB=%23017e40&style=for-the-badge"></a>
 </p>
-<p align="left">
-<a href="https://github.com/hax0rtahm1d"><img title="HaX0r Tahm1d" src="https://img.shields.io/badge/By-HaX0r%20Tahm1d-blue?style=for-the-badge&logo=github"></a>
-</p>
 <br/><br/>
 
 <h1 align="center">ms11 V1</h1>
@@ -11,7 +8,7 @@
 
 ## ***About MS11 V1***:
 
-Bind is a python based cloning script. You can clone unlimited indian facebook accounts by using this tool. This tool works on any Android devices without root.
+MS11 is a python based cloning script. You can clone unlimited indian facebook accounts by using this tool. This tool works on any Android devices without root.
 
 ## Install on Termux :
 ```
